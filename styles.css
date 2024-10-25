@@ -1,0 +1,22 @@
+body {
+    background-color: #222;
+    color: orange;
+    font-family: 'Special Elite', cursive; 
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#madLibStory {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.navbar-brand {
+    color: orange; 
+}
